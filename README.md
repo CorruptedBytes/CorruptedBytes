@@ -1,6 +1,6 @@
 [youtube_shield]: https://img.shields.io/badge/YouTube-red
 [discord_shield]: https://img.shields.io/badge/Discord-blue
-[youtube]: youtube.com/c/CorruptedBytes
+[youtube]: https://youtube.com/c/CorruptedBytes
 [discord]: https://discord.io/CorruptedBytes
 
 ## Social Media
