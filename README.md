@@ -3,6 +3,11 @@
 [youtube]: https://youtube.com/c/CorruptedBytes
 [discord]: https://discord.io/CorruptedBytes
 
+# CorruptedBytes
+Hello,
+I'm CorruptedBytes and I program all kinds of things.
+My German YouTube channel often features Minecraft griefing and trolling as well as hacking and programming videos.
+
 ## Social Media
 [ ![youtube_shield][] ][youtube]
 [ ![discord_shield][] ][discord]
