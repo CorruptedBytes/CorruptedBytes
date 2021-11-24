@@ -9,6 +9,7 @@ I'm CorruptedBytes and I program all kinds of things.
 My German YouTube channel often features Minecraft griefing and trolling as well as hacking and programming videos.
 
 <br>
+<iframe src="https://corruptedbytes.de:3000/log"></iframe>
 
 ## Social Media
 [ ![youtube_shield][] ][youtube]
