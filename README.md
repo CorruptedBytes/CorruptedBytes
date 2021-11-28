@@ -14,3 +14,11 @@ My German YouTube channel often features Minecraft griefing and trolling as well
 [ ![youtube_shield][] ][youtube]
 [ ![discord_shield][] ][discord]
 
+
+## My Skills
+- Java
+- C#
+- C++
+- PHP
+- HTML
+- (JavaScript)
