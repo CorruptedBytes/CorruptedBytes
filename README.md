@@ -11,6 +11,8 @@ I'm CorruptedBytes and I program all kinds of things.**
 
 <br>
 
+### Languages: 🇷🇺, 🇩🇪, 🇬🇧
+
 ## Social Media
 [ ![youtube_shield][] ][youtube]
 [ ![discord_shield][] ][discord]
