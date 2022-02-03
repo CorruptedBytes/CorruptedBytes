@@ -10,7 +10,8 @@ I'm CorruptedBytes and I program all kinds of things.**
 **My German YouTube channel often features Minecraft griefing and trolling as well as hacking and programming videos.**
 
 
-### Languages: <p><img src="https://github.com/yammadev/flag-icons/raw/master/png/RU@2x.png?raw=true" />&nbsp;<img src="https://github.com/yammadev/flag-icons/raw/master/png/DE@2x.png?raw=true" />&nbsp;<img src="https://github.com/yammadev/flag-icons/raw/master/png/GB@2x.png?raw=true" /></p>
+### Languages:
+<p><img src="https://github.com/yammadev/flag-icons/raw/master/png/RU@2x.png?raw=true" />&nbsp;<img src="https://github.com/yammadev/flag-icons/raw/master/png/DE@2x.png?raw=true" />&nbsp;<img src="https://github.com/yammadev/flag-icons/raw/master/png/GB@2x.png?raw=true" /></p>
 
 ## Social Media
 [ ![youtube_shield][] ][youtube]
