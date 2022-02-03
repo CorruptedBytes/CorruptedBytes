@@ -11,7 +11,7 @@ I'm CorruptedBytes and I program all kinds of things.**
 
 
 ### Languages:
-<p><img src="https://github.com/yammadev/flag-icons/raw/master/png/RU@2x.png?raw=true" />&nbsp;<img src="https://github.com/yammadev/flag-icons/raw/master/png/DE@2x.png?raw=true" />&nbsp;<img src="https://github.com/yammadev/flag-icons/raw/master/png/GB@2x.png?raw=true" /></p>
+<p><img src="https://github.com/yammadev/flag-icons/raw/master/png/RU@2x.png?raw=true" />&nbsp;&nbsp;<img src="https://github.com/yammadev/flag-icons/raw/master/png/DE@2x.png?raw=true" />&nbsp;&nbsp;<img src="https://github.com/yammadev/flag-icons/raw/master/png/GB@2x.png?raw=true" /></p>
 
 ## Social Media
 [ ![youtube_shield][] ][youtube]
