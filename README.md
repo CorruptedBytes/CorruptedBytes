@@ -9,9 +9,8 @@ I'm CorruptedBytes and I program all kinds of things.**
 
 **My German YouTube channel often features Minecraft griefing and trolling as well as hacking and programming videos.**
 
-<br>
 
-### Languages: 🇷🇺, 🇩🇪, 🇬🇧
+### Languages: 🇷🇺 🇩🇪 🇬🇧
 
 ## Social Media
 [ ![youtube_shield][] ][youtube]
