@@ -7,7 +7,7 @@
 **Hello 👋,
 I'm CorruptedBytes and I program all kinds of things.**
 
-**My German YouTube channel often features Minecraft griefing and trolling as well as hacking and programming videos.**
+**My German YouTube channel often features Trolling and programming videos.**
 
 
 ### Languages:
@@ -19,9 +19,9 @@ I'm CorruptedBytes and I program all kinds of things.**
 
 
 ## My Skills
-- Java
-- C#
-- C++
-- PHP
-- HTML
-- (JavaScript)
+- **Java**
+- **C#**
+- **C++**
+- **PHP**
+- **HTML**
+- **Batch**
