@@ -35,6 +35,6 @@ I'm CorruptedBytes and I program all kinds of things.**
 ## Github Stats
 
   
-![CorruptedBytes GitHub stats](https://github-readme-stats.vercel.app/api?username=CorruptedBytes&show_icons=true&theme=radical&title_color=cc0000&text_color=ffffff&icon_color=800000)  &nbsp;&nbsp;&nbsp;  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CorruptedBytes&show_icons=true&bg_color=141321&layout=compact&title_color=ffffff&text_color=ffffff&icon_color=800000)](https://github.com/anuraghazra/github-readme-stats)
+![CorruptedBytes GitHub stats](https://github-readme-stats.vercel.app/api?username=CorruptedBytes&show_icons=true&theme=radical&title_color=cc0000&text_color=ffffff&icon_color=800000) &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CorruptedBytes&show_icons=true&bg_color=141321&layout=compact&title_color=ffffff&text_color=ffffff&icon_color=800000)](https://github.com/anuraghazra/github-readme-stats)
 
 
