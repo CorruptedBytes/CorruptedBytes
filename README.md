@@ -30,7 +30,7 @@ I'm CorruptedBytes and I program all kinds of things.**
 - **C++**
 - **PHP**
 - **HTML**
-- JavaScript
+- **JavaScript**
 - **CSS**
 - **System Administration**
 
