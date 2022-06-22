@@ -7,7 +7,7 @@
 **Hello 👋,
 I'm CorruptedBytes and I program all kinds of things.**
 
-**My German YouTube channel often features Trolling and programming videos.**
+**My YouTube channel often features Trolling and programming videos.**
 
 
 ### Languages:
