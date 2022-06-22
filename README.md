@@ -1,7 +1,7 @@
 [youtube_shield]: https://img.shields.io/badge/YouTube-red
 [discord_shield]: https://img.shields.io/badge/Discord-blue
 [youtube]: https://youtube.com/c/CorruptedBytes
-[discord]: https://discord.io/CorruptedBytes
+[discord]: https://discord.corruptedbytes.de/
 
 # About Me
 **Hello 👋,
@@ -30,7 +30,9 @@ I'm CorruptedBytes and I program all kinds of things.**
 - **C++**
 - **PHP**
 - **HTML**
-- **Windows Administration**
+- JavaScript
+- **CSS**
+- **System Administration**
 
 ## Github Stats
 
