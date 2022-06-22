@@ -24,7 +24,7 @@ I'm CorruptedBytes and I program all kinds of things.**
 [ ![discord_shield][] ][discord]
 
 
-<a href="https://www.buymeacoffee.com/corruptedbytes"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=corruptedbytes&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+<a target="_blank" href="https://www.buymeacoffee.com/corruptedbytes"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=corruptedbytes&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
 
 
 ## My Skills
