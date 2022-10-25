@@ -1,7 +1,7 @@
-[youtube_shield]: https://img.shields.io/badge/YouTube-red
-[discord_shield]: https://img.shields.io/badge/Discord-blue
+[youtube_shield]: https://img.shields.io/badge/corruptedbytes-%23E4405F.svg?style=for-the-badge&logo=youtube&logoColor=white
+[telegram_shield]: https://img.shields.io/badge/corruptedbytes-blue.svg?style=for-the-badge&logo=telegram&logoColor=white
 [youtube]: https://youtube.com/c/CorruptedBytes
-[discord]: https://discord.corruptedbytes.de/
+[telegram]: https://t.me/CorruptedBytes
 
 # About Me
 **Hello 👋,
@@ -21,7 +21,7 @@ I'm CorruptedBytes and I program all kinds of things.**
 
 ## Social Media
 [ ![youtube_shield][] ][youtube]
-[ ![discord_shield][] ][discord]
+[ ![telegram_shield][] ][telegram]
 
 
 <a target="_blank" href="https://www.buymeacoffee.com/corruptedbytes"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=corruptedbytes&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
