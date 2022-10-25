@@ -31,7 +31,7 @@ I'm CorruptedBytes and I program all kinds of things.**
 - **CSS**
 - **System Administration**
 
-## 📊 Github stats
+## Github stats
 
 ![CorruptedBytes GitHub stats](https://github-readme-stats.vercel.app/api?username=CorruptedBytes&show_icons=true&theme=radical&title_color=cc0000&text_color=ffffff&icon_color=800000) &nbsp; 
 
