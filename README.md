@@ -1,8 +1,3 @@
-[youtube_shield]: https://img.shields.io/badge/corruptedbytes-%23E4405F.svg?style=for-the-badge&logo=youtube&logoColor=white
-[telegram_shield]: https://img.shields.io/badge/corruptedbytes-blue.svg?style=for-the-badge&logo=telegram&logoColor=white
-[youtube]: https://youtube.com/c/CorruptedBytes
-[telegram]: https://t.me/CorruptedBytes
-
 # About Me
 **Hello 👋,
 I'm CorruptedBytes and I program all kinds of things.**
@@ -20,8 +15,9 @@ I'm CorruptedBytes and I program all kinds of things.**
 </p>
 
 ## Social Media
-[ ![youtube_shield][] ][youtube]
-[ ![telegram_shield][] ][telegram]
+[![YouTube](https://img.shields.io/badge/corruptedbytes-%23E4405F.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/CorruptedBytes)
+[![Telegram](https://img.shields.io/badge/corruptedbytes-blue.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CorruptedBytes)
+[![Discord](https://img.shields.io/badge/corruptedbytes-blue.svg?color=4682B4&style=for-the-badge&logo=discord&logoColor=white)](https://discord.corruptedbytes.de)
 
 
 <a target="_blank" href="https://www.buymeacoffee.com/corruptedbytes"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=corruptedbytes&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
