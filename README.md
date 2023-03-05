@@ -22,13 +22,15 @@ I'm CorruptedBytes and I program all kinds of things.**
 
 ## My Skills
 - **Java**
-- **C#**
-- **C++**
+- **NodeJS**
+- **JavaScript**
 - **PHP**
 - **SQL**
 - **HTML**
-- **JavaScript**
 - **CSS**
+- **C++**
+- **C#**
+- **Network Administration**
 - **System Administration**
 
 
