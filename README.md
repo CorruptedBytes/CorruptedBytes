@@ -22,8 +22,7 @@ I'm CorruptedBytes and I program all kinds of things.**
 
 ## My Skills
 - **Java**
-- **NodeJS**
-- **JavaScript**
+- **JavaScript (NodeJS)**
 - **PHP**
 - **SQL**
 - **HTML**
